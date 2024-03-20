@@ -2,8 +2,8 @@
 
 ## **🔍 About Me**
 - 👩‍💻 I am profcient in Front-End Technologies (HTML5, CSS, Javascript, REACTjs)
-- 🎓 I have completed the Meta Front End and I am actively working on the Back-End Professional Certificates on Coursera.
-- 🚀 My end goal is to become a full stack developer.
+- 🎓 I have completed the Meta Front End and Back-End Professional Certificates through META.
+- 🚀 My end goal is to become a software developer.
 
 ## **💻 Tech and Impact**
 - 🌟 Along with my passion for technology, I am dedicated to making a positive impact on our communities.
